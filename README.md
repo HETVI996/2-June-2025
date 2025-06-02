@@ -59,7 +59,7 @@
 <br> 
   3) ML Life Cycle
    
- <br> # a) Problem Definition
+ <br> a) Problem Definition
 
   #Understand the business problem and convert it into a ML problem.
 
