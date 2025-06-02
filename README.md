@@ -1,6 +1,7 @@
 # 2-June-2025
 
-TO do
+## TO do
+
   what is machine learning and type of machine learning?
 1. suprvised learning
 2. unsuprvised learning
